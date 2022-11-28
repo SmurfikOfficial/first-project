@@ -1,1 +1,3 @@
-Public static void First{}
+Public static void First{
+main();
+}
